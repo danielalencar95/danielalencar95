@@ -1,17 +1,18 @@
-<a href="https://linkedin.com/in/alencardaniel" rel="nofollow">
+# Daniel Alencar
+<a href="https://linkedin.com/in/alencardaniel" target="_blank">
   <img 
     src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge"
     alt="LinkedIn"
   />
-</a>
-<a href="https://instagram.com/alencardaniel" rel="nofollow">
+</a><!-- -->
+<a href="https://instagram.com/alencardaniel" target="_blank">
   <img 
     src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" 
     alt="Instagram"
   />
 </a>
 
-# Daniel Alencar
+
 
 **Analista de MIS | Analista de BI | Analista de Dados**  
 Power BI • SQL • Python • KNIME • Power Apps • Power Automate • SharePoint • ETL • Modelagem de Dados
@@ -52,4 +53,3 @@ Sou movido por aprendizado contínuo, inovação e busca por eficiência em tudo
 ## 📫 Contato
 🔗 **LinkedIn:** https://www.linkedin.com/in/alencardaniel/  
 📧 **Email:** daniel_alencar95@outlook.com  
-
