@@ -1,3 +1,16 @@
+<a href="https://linkedin.com/in/alencardaniel" rel="nofollow">
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge"
+    alt="LinkedIn"
+  />
+</a>
+<a href="https://instagram.com/alencardaniel" rel="nofollow">
+  <img 
+    src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" 
+    alt="Instagram"
+  />
+</a>
+
 # Daniel Alencar
 
 **Analista de MIS | Analista de BI | Analista de Dados**  
