@@ -1,7 +1,9 @@
 # Daniel Alencar
-<div style="outline: none !important;"><a href="https://linkedin.com/in/alencardaniel" target="_blank" style="outline: none !important;"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/alencar_daniel95" target="_blank" style="outline: none !important;"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"alt="Instagram"/></a></div>
-
+<div style="outline: none !important;">
+  <a href="https://linkedin.com/in/alencardaniel" target="_blank" style="outline: none !important;"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/alencar_daniel95" target="_blank" style="outline: none !important;"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"alt="Instagram"/></a>
+<a href="https://t.me/Daniel95Alencar" target="_blank">    <img       src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"       alt="Telegram"    />  </a>
+</div>
 
 
 
