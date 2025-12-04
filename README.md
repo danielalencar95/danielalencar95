@@ -36,17 +36,6 @@ Sou movido por aprendizado contínuo, inovação e busca por eficiência em tudo
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielalencar95&show_icons=false&hide_title=true&hide=prs,issues,contribs&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielalencar95&layout=compact)
-
-</div>
-
----
-
 ## 📫 Contato
 🔗 **LinkedIn:** https://www.linkedin.com/in/alencardaniel/  
 📧 **Email:** daniel_alencar95@outlook.com  
