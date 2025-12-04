@@ -12,10 +12,9 @@ Power BI • SQL • Python • KNIME • Power Apps • Power Automate • Shar
 
 ## 📌 Sobre mim
 
-Desde criança sempre fui fascinado por tecnologia. Iniciei minha jornada na área de infraestrutura e suporte, mas descobri no mundo dos dados minha verdadeira paixão.  
-Gosto de transformar dados em informações valiosas, criar automações que facilitam o dia a dia e desenvolver soluções inteligentes para melhorar processos e apoiar a tomada de decisões.
+Tenho uma trajetória iniciada na área de infraestrutura e suporte, o que me proporcionou uma base sólida em tecnologia. Ao migrar para o universo de dados, encontrei minha verdadeira vocação: transformar informações em insights úteis e desenvolver soluções que otimizam processos e impulsionam resultados.
 
-Sou movido por aprendizado contínuo, inovação e busca por eficiência em tudo o que faço.
+Trabalho com foco em automação, eficiência operacional e qualidade das entregas, sempre buscando aprimoramento contínuo e aplicando boas práticas para gerar valor real ao negócio.
 
 ---
 
